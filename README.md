@@ -48,5 +48,5 @@ In this repository you will find all the workshop materials used during the two 
    
    [Launch My Python Workshop on Binder]: https://mybinder.org/v2/gh/PUT-YOUR-GITHUB-USERNAME-HERE/2019-07-24-intro-to-python-workshop/master?filepath=welcome.ipynb&urlpath=lab/tree/welcome.ipynb
    
-   Don't click -> **[https://github.com/brownsamuel/2019-07-24-intro-to-python-workshop/edit/master/README.md]** <- until you have added ***your*** GitHub username.
+   **[https://github.com/brownsamuel/2019-07-24-intro-to-python-workshop/edit/master/README.md]**
    
